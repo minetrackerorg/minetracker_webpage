@@ -1,0 +1,1 @@
+Images and icons for the project.
