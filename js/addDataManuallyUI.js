@@ -20,13 +20,13 @@ function addMarker(e) {
   var marker = L.marker(e.latlng, { id: tmpID }).addTo(map);
   console.log(e.latlng);
   document.getElementById("newPoiLat").innerHTML=e.latlng.lat;
-  document.getElementById("selectedlat").value=e.latlng.lat;
+  document.getElementById("newPoiLat").value=e.latlng.lat;
   document.getElementById("newPoiLong").innerHTML=e.latlng.lng;
-  document.getElementById("selectedlng").value=e.latlng.lng;
+  document.getElementById("newPoiLong").value=e.latlng.lng;
   map.off('dblclick', addMarker);
   $('#offCanvasAddData').foundation('open');
   var element = document.querySelector('[title="Add New data manually to the dataset"]').innerHTML = '<img src="docs/images/new_data.png"></img>';
-  selectNewLocation();
+  //selectNewLocation();
 }
 
 var containerForNewData = L.DomUtil.create('button', 'add_button');

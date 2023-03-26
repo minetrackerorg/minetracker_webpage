@@ -64,10 +64,8 @@
   <br>
   Position: 
   <div id="newPOICoordinates">
-    <div id="newPoiLat"></div>
-    <input  name="selectedlat" id="selectedlat">
-    <div id="newPoiLong"></div>
-    <input  name="selectedlng" id="selectedlng">
+    <input  name="selectedlat" id="newPoiLat">
+    <input  name="selectedlng" id="newPoiLong">
     <br>
   </div>
   <br>
