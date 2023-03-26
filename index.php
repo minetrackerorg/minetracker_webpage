@@ -89,6 +89,10 @@
     Other additional info:
     <textarea name="additional_info" placeholder="None"></textarea>
   </label>
+  <label>
+    Image link:
+    <input type="url" name="imagelink" placeholder="https://" aria-describedby="exampleHelpText">
+  </label>
   <div class="grid-x grid-margin-x">
     <fieldset class="cell large-12">
       <legend>Select the method of the detection: </legend>

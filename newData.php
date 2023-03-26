@@ -18,7 +18,8 @@ $new_mine = array(
     'info' => $_POST['info'],
     'method' => implode(', ', $_POST['method']),
     'status' => $_POST['status'],
-    'popupContent' => $_POST['info']
+    'popupContent' => $_POST['additional_info'],
+    'imagelink' => $_POST['imagelink']
 );
 
 // Add the new mine to the mines array
