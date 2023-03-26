@@ -1,0 +1,68 @@
+[
+    {
+        "lat": 47.43869896751414,
+        "lng": 19.054206919322716,
+        "popupContent": "Amerikai l\u00e9gibomba<br>2022.12.20<br>",
+        "link": "https:\/\/magyarnemzet.hu\/belfold\/2022\/12\/masodik-vilaghaborus-500-kilogrammos-amerikai-legibombat-talaltak-csepelen",
+        "iconUrl": "docs\/images\/inactivebomb.png",
+        "type": "WWII aerial bomb",
+        "radius": 0,
+        "info": "from magyarnemzet.hu",
+        "method": "other",
+        "status": "deactivated",
+        "imagelink": ""
+    },
+    {
+        "lat": 47.494203,
+        "lng": 19.047103,
+        "popupContent": "Szovjet l\u00e9gibomba<br>2022.09.12",
+        "image": "https:\/\/infostart.hu\/images\/site\/articles\/lead\/2020\/07\/1594838872-nEW8vu9cz_md.jpg",
+        "link": "https:\/\/infostart.hu\/belfold\/2022\/09\/08\/hatalmas-bombat-talaltak-a-dunaban",
+        "iconUrl": "docs\/images\/inactivebomb.png",
+        "type": "WWII aerial bomb",
+        "radius": 0,
+        "info": "from infostart.hu",
+        "method": "other",
+        "status": "deactivated",
+        "imagelink": ""
+    },
+    {
+        "lat": 47.44741,
+        "lng": 19.062934,
+        "popupContent": "II. vil\u00e1gh\u00e1bor\u00fas amerikai l\u00e9gibomba<br>2022.07.26<br> MH 1. T\u0171zszer\u00e9sz \u00e9s Folyam\u0151r Ezred",
+        "image": "https:\/\/scontent-vie1-1.xx.fbcdn.net\/v\/t39.30808-6\/295989241_424340846402976_3383478495596152197_n.jpg?stp=dst-jpg_p960x960&_nc_cat=106&ccb=1-7&_nc_sid=36a2c1&_nc_ohc=f53L5ayTBZcAX-4jj0J&_nc_ht=scontent-vie1-1.xx&oh=00_AfC6Xmux5rjHfpAeKDe2eL8ZH3rTm_wTprS4aFj01xTdDQ&oe=6424C88F",
+        "link": "https:\/\/www.facebook.com\/tuzszereszhadihajo\/posts\/424341149736279",
+        "iconUrl": "docs\/images\/inactivebomb.png",
+        "type": "WWII aerial bomb",
+        "radius": 0,
+        "info": "from official facebook page",
+        "method": "other",
+        "status": "deactivated",
+        "imagelink": ""
+    },
+    {
+        "lat": 47.251973,
+        "lng": 18.353407,
+        "popupContent": "II. vil\u00e1gh\u00e1bor\u00fas bomba<br>Origo",
+        "link": "https:\/\/www.origo.hu\/itthon\/20030301vilaghaborus.html",
+        "iconUrl": "docs\/images\/inactivebomb.png",
+        "type": "WWII aerial bomb",
+        "radius": 0,
+        "info": "from origo.hu",
+        "method": "other",
+        "status": "deactivated",
+        "imagelink": ""
+    },
+    {
+        "lat": "44.279895",
+        "lng": "29.591308",
+        "type": "naval mine",
+        "radius": "0",
+        "link": "https:\/\/www.mapn.ro\/cpresa\/17361_mina-marina,-observata-in-largul-marii-negre,-la-70-de-kilometri-travers-de-capu-midia",
+        "info": null,
+        "method": "other",
+        "status": "deactivated",
+        "popupContent": "naval mine",
+        "imagelink": "https:\/\/s.iw.ro\/gateway\/g\/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG\/c3RvcmFnZTA0dHJhbnNjb2Rlci5yY3Mt\/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl\/MkYwMyUyRjI4JTJGMTQ4MjQ2OF8xNDgy\/NDY4X21pbmEtbWFyaW5hLXByb2ZpbWVk\/aWEuanBnJnc9NzgwJmg9NDQwJmhhc2g9\/MWRjMjk2MmE4ZmE3MTA0MDdlZDFjMjc0MTNkYWMzOTU=.thumb.jpg?tmp=2023-03-26-13-41-04&app=req-64202140480ef&retry=2"
+    }
+]
